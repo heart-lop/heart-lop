@@ -1,6 +1,6 @@
 <h1 align="center">I'm Heart Lop </h1>
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/632434742427516948/1017986394364317696/illust_101113858_20220910_092006.jpg" alt="Heart-Lop" width="500"/>
+<img src="https://cdn.discordapp.com/attachments/632434742427516948/1019190387463704606/illust_94654937_20220913_171317.png" alt="Heart-Lop" width="500"/>
 </p>
 <h1 align="center">Heart - Lop </h1>
 <p align="center">
